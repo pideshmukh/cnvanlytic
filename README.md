@@ -20,10 +20,6 @@
 pip install pyconverse
 ```
 
-### Usage
-
-Please try this notebook that demos the core functionalities: [basic usage notebook](https://github.com/AnjanaRita/converse/blob/master/notebook/usage.ipynb)
-
 ## Introduction
 
 Conversation analytics plays an increasingly important role in shaping great customer experiences across various industries like finance/contact centres etc...
